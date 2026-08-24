@@ -1,0 +1,41 @@
+{
+  "name": "Reya Doshi",
+  "username": "Reya-Doshi",
+  "positioning": "Software Engineer in the Making · AI · Backend · Systems",
+  "tagline": "Building intelligent, scalable and reliable software systems.",
+  "socials": {
+    "github": "https://github.com/Reya-Doshi",
+    "linkedin": "https://www.linkedin.com/in/reya-doshi/",
+    "email": "mailto:reyadoshi23@gmail.com"
+  },
+  "typing_themes": [
+    "Building intelligent systems",
+    "Exploring Backend & Distributed Systems",
+    "Learning Java & DSA",
+    "Turning ideas into working systems"
+  ],
+  "about": {
+    "education": "3rd-year Information Technology student",
+    "focus": "Building intelligent, scalable and reliable software systems",
+    "interests": [
+      "Artificial Intelligence",
+      "Backend Engineering",
+      "Distributed Systems",
+      "Cloud & Infrastructure",
+      "Data Structures & Algorithms"
+    ],
+    "foundations": [
+      "Java",
+      "DSA",
+      "OOP",
+      "DBMS",
+      "Distributed Systems"
+    ]
+  },
+  "color_system": {
+    "primary_accent": "#7C3AED",
+    "secondary_accent": "#22D3EE",
+    "background": "#0d1117",
+    "text": "#c9d1d9"
+  }
+}
