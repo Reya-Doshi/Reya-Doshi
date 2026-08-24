@@ -217,7 +217,7 @@ Java  ➔  Arrays & Strings  ➔  Hashing  ➔  Two Pointers & Sliding Window  �
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reya-Doshi/Reya-Doshi/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reya-Doshi/Reya-Doshi/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/Reya-Doshi/Reya-Doshi/output/snake-dark.svg" alt="Contribution Snake" width="100%">
+    <img src="assets/snake-dark.svg" alt="Contribution Snake" width="100%">
   </picture>
 </div>
 

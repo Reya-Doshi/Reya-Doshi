@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="850" height="150" font-family="ui-sans-serif, system-ui, sans-serif">
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="50%" y="45" text-anchor="middle" font-size="14" font-weight="600" fill="#7C3AED">🐍 Contribution Snake Animation</text>
+  <text x="50%" y="75" text-anchor="middle" font-size="12" fill="#8b949e">Generated automatically by GitHub Actions workflow (snake.yml)</text>
+  <text x="50%" y="105" text-anchor="middle" font-size="11" fill="#A78BFA">Go to Repo → Actions → Snake → Run workflow to initialize the output branch</text>
+</svg>
