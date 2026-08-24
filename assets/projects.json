@@ -1,16 +1,15 @@
 {
-  "_comment": "Featured projects for Reya Doshi. Do not include secret projects.",
+  "_comment": "Featured projects for Reya Doshi.",
   "projects": [
     {
       "repo": "InferX",
       "title": "InferX",
       "subtitle": "Distributed AI Inference Engine",
-      "description": "A high-performance inference runtime designed for scalable model execution featuring zero-copy IPC and dynamic batching.",
+      "description": "High-performance inference runtime with zero-copy SharedMemory IPC, multi-process workers, and dynamic batching.",
       "highlights": [
-        "Zero-copy IPC using Python SharedMemory",
+        "Zero-copy IPC using SharedMemory",
         "Multi-process worker architecture",
-        "Dynamic batching & Token-bucket rate limiting",
-        "Circuit breakers, Load shedding & Dead Letter Queue"
+        "Dynamic batching for scalable model execution"
       ],
       "language": "Python",
       "technologies": ["Python", "Shared Memory", "IPC", "Concurrency", "AI"],
@@ -20,12 +19,11 @@
       "repo": "Cortex",
       "title": "Cortex",
       "subtitle": "AI Data Investigation Platform",
-      "description": "An autonomous data investigation platform orchestrating specialized AI agents and dependency-aware DAG workflows.",
+      "description": "Autonomous data investigation platform orchestrating specialized AI agents via dependency-aware DAG execution.",
       "highlights": [
         "Dependency-aware DAG execution",
         "Concurrent processing with ThreadPoolExecutor",
-        "Pandas-based analysis & Pytest integration",
-        "3.5× reported speedup & 92% analytical accuracy"
+        "Automated Pandas analysis workflows"
       ],
       "language": "Python",
       "technologies": ["Python", "AI Agents", "Pandas", "Concurrency", "Pytest"],
@@ -35,12 +33,11 @@
       "repo": "AntidotePlus",
       "title": "Antidote+",
       "subtitle": "AI Snakebite Emergency Network",
-      "description": "An offline-first emergency network helping rural snakebite victims reach facilities with available antivenom.",
+      "description": "Offline-first emergency network helping rural snakebite victims navigate to antivenom facilities.",
       "highlights": [
         "Offline-first architecture for unreliable connectivity",
-        "AI species identification & facility availability workflow",
-        "Leaflet + OSRM intelligent routing",
-        "Multilingual support: Telugu · Hindi · English"
+        "AI species identification & antivenom facility workflow",
+        "Leaflet + OSRM intelligent routing"
       ],
       "language": "TypeScript",
       "technologies": ["AI", "Leaflet", "OSRM", "Routing", "Offline-first"],
@@ -50,12 +47,11 @@
       "repo": "Capabl",
       "title": "Capabl",
       "subtitle": "AI Career Readiness Platform",
-      "description": "An AI-powered platform designed to analyse developer profiles and identify actionable skill gaps.",
+      "description": "AI-powered platform for developer profile analysis and actionable skill-gap identification.",
       "highlights": [
-        "Global Finalist — USAII Global AI Hackathon 2026 (Score: 65.1 / 70)",
-        "Developer profile analysis & AI-powered recommendations",
-        "Actionable skill-gap identification workflows",
-        "Full-stack architecture powered by Google Gemini & PostgreSQL"
+        "Global Finalist — USAII Global AI Hackathon 2026",
+        "Developer profile analysis & recommendations",
+        "Actionable skill-gap identification workflows"
       ],
       "language": "TypeScript",
       "technologies": ["React", "Node.js", "PostgreSQL", "Prisma", "Google Gemini"],

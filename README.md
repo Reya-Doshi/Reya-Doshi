@@ -100,23 +100,23 @@ I am a 3rd-year Information Technology student interested in building intelligen
 #### Project Highlights
 
 * **[InferX](https://github.com/Reya-Doshi/InferX)** — *Distributed AI Inference Engine*
-  * High-performance inference runtime built for scalable model execution.
-  * Zero-copy IPC with Python SharedMemory, multi-process worker architecture, dynamic batching, token-bucket rate limiting, circuit breakers, load shedding, and Dead Letter Queue.
+  * High-performance inference runtime designed for scalable model execution.
+  * Features zero-copy SharedMemory IPC, multi-process worker architecture, and dynamic batching.
   * **Tech:** `Python` · `Shared Memory` · `IPC` · `Concurrency` · `AI`
 
 * **[Cortex](https://github.com/Reya-Doshi/Cortex)** — *AI Data Investigation Platform*
   * Autonomous data investigation platform orchestrating specialized AI agents and analytical workflows.
-  * Dependency-aware DAG execution with ThreadPoolExecutor concurrent processing, Pandas analysis, and Pytest integration (3.5× reported speedup & 92% analytical accuracy).
+  * Features dependency-aware DAG execution, concurrent processing via ThreadPoolExecutor, and Pandas analysis.
   * **Tech:** `Python` · `AI Agents` · `Pandas` · `Concurrency` · `Pytest`
 
 * **[Antidote+](https://github.com/Reya-Doshi/AntidotePlus)** — *AI Snakebite Emergency Network*
-  * Offline-first emergency network helping rural snakebite victims navigate to antivenom facilities.
-  * AI species identification, Leaflet + OSRM routing, facility availability workflow, and multilingual support (Telugu, Hindi, English).
+  * Offline-first emergency network helping rural snakebite victims reach facilities with available antivenom.
+  * Features offline-first architecture, AI species identification, Leaflet + OSRM routing, and multilingual support.
   * **Tech:** `AI` · `Leaflet` · `OSRM` · `Routing` · `Offline-first`
 
 * **[Capabl](https://github.com/Reya-Doshi/Capabl)** — *AI Career Readiness Platform*
-  * **Global Final Round — United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026** (Score: **65.1 / 70**).
-  * AI-powered developer profile analysis, skill-gap identification, and actionable career readiness workflows.
+  * **Global Finalist — USAII Global AI Hackathon 2026**
+  * AI-powered platform for developer profile analysis and actionable skill-gap identification.
   * **Tech:** `React` · `Node.js` · `PostgreSQL` · `Prisma` · `Google Gemini`
 
 ---
@@ -124,7 +124,7 @@ I am a 3rd-year Information Technology student interested in building intelligen
 ### 🏆 Achievements
 
 - 🏅 **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
-  - Reached the Global Final Round with **Capabl** with a score of **65.1 / 70**.
+  - Reached the Global Final Round with **Capabl**.
 - 🎓 **Google Student Ambassador (2026)**
   - Selected as a Google Student Ambassador; participating in AI and student community workshops.
 - 📱 **OnePlus Student Ambassador (2026)**
@@ -180,15 +180,11 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 📚 Currently Learning
+### 💻 Core CS Foundations
 
-```
-Java  ➔  Arrays & Strings  ➔  Hashing  ➔  Two Pointers & Sliding Window  ➔  Binary Search  ➔  Stacks & Queues  ➔  Linked Lists  ➔  Trees & BST  ➔  Graphs  ➔  Dynamic Programming  ➔  Interview Ready
-```
-
-- **Java Core:** OOP · Collections · Exception Handling · Generics
-- **DBMS:** SQL · Normalization · Transactions · Indexing
-- **Core CS:** Operating Systems · Computer Networks · Distributed Systems
+- ☕ **Java & Core Concepts:** OOP · Collections · Exception Handling · Generics
+- 🗄️ **DBMS & Storage:** SQL · Normalization · Transactions · Indexing
+- 🖥️ **Computer Science:** Data Structures & Algorithms · Operating Systems · Networks · Distributed Systems
 
 ---
 
