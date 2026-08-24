@@ -1,26 +1,37 @@
 <div align="center">
 
-  <!-- PORTRAIT -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-    <img src="assets/portrait-dark.svg" alt="Reya Doshi Dot-Matrix Portrait" width="230">
-  </picture>
-
-  <h1>Reya Doshi</h1>
-
-  <p><strong>Software Engineer in the Making · AI · Backend · Systems</strong></p>
-
-  <p>
-    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Exploring+Backend+%26+Distributed+Systems;Learning+Java+%26+DSA;Turning+ideas+into+working+systems" alt="Typing Banner" /></a>
-  </p>
-
-  <p>
-    <a href="https://github.com/Reya-Doshi"><img src="https://img.shields.io/badge/GitHub-Reya--Doshi-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/reya-doshi/"><img src="https://img.shields.io/badge/LinkedIn-Reya_Doshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:reyadoshi23@gmail.com"><img src="https://img.shields.io/badge/Email-reyadoshi23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://komarev.com/ghpvc/?username=Reya-Doshi&color=7C3AED&style=for-the-badge" alt="Profile Views">
-  </p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="35%" align="center" valign="middle" style="border: none; padding: 15px;">
+      <!-- ID CARD PORTRAIT SCANNER -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+        <img src="assets/portrait-dark.svg" alt="Reya Doshi ID Scanner" width="220" style="border-radius: 12px; border: 2px solid #7C3AED; box-shadow: 0 0 15px rgba(124, 58, 237, 0.4);">
+      </picture>
+    </td>
+    <td width="65%" align="left" valign="middle" style="border: none; padding: 15px;">
+      <!-- ID CARD DETAILS -->
+      <h1 style="margin: 0; padding: 0; font-size: 32px; letter-spacing: -0.5px;">🪪 REYA DOSHI</h1>
+      <p style="color: #7C3AED; font-weight: 700; font-size: 16px; margin: 6px 0 12px 0;">
+        Software Engineer in the Making · AI · Backend · Systems
+      </p>
+      <p style="margin: 6px 0;">
+        <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=7C3AED&width=450&lines=Building+intelligent+systems;Exploring+Backend+%26+Distributed+Systems;Learning+Java+%26+DSA;Turning+ideas+into+working+systems" alt="Typing Banner" /></a>
+      </p>
+      <p style="font-size: 13.5px; margin: 10px 0; color: #8b949e; line-height: 1.5;">
+        📍 <strong>Location:</strong> Hyderabad, India 🇮🇳 &nbsp;|&nbsp; 🎓 <strong>Status:</strong> 3rd-Year IT Student<br>
+        ⚙️ <strong>Engineering Creed:</strong> <em>Build → Break → Learn → Repeat</em>
+      </p>
+      <p style="margin-top: 14px;">
+        <a href="https://github.com/Reya-Doshi"><img src="https://img.shields.io/badge/GitHub-Reya--Doshi-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/reya-doshi/"><img src="https://img.shields.io/badge/LinkedIn-Reya_Doshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:reyadoshi23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <img src="https://komarev.com/ghpvc/?username=Reya-Doshi&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
