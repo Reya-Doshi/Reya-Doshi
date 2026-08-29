@@ -127,8 +127,6 @@ I am a 3rd-year Information Technology student interested in building intelligen
   - Reached the Global Final Round with **Capabl**.
 - 🎓 **Google Student Ambassador (2026)**
   - Selected as a Google Student Ambassador; participating in AI and student community workshops.
-- 📱 **OnePlus Student Ambassador (2026)**
-  - Active member of the OnePlus student community creating technical content and representing campus initiatives.
 - ⚡ **Technical Focus**
   - Building AI, backend engineering, systems, and distributed solutions.
 

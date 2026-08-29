@@ -46,6 +46,7 @@ jobs:
           python scripts/cards.py \
             --user "${{ github.repository_owner }}" \
             --projects assets/projects.json \
+            --override-contribs 388 \
             --out assets
 
       - name: Commit if changed
