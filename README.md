@@ -12,7 +12,8 @@
     </td>
     <td width="65%" align="left" valign="middle" style="border: none; padding: 15px;">
       <!-- ID CARD DETAILS -->
-      <h1 style="margin: 0; padding: 0; font-size: 32px; letter-spacing: -0.5px;">🪪 REYA DOSHI</h1>
+      <h1 style="margin: 0; padding: 0; font-size: 32px; letter-spacing: -0.5px;"
+REYA DOSHI</h1>
       <p style="color: #7C3AED; font-weight: 700; font-size: 16px; margin: 6px 0 12px 0;">
         Software Engineer in the Making · AI · Backend · Systems
       </p>
