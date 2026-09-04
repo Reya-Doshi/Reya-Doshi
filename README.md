@@ -21,7 +21,7 @@ REYA DOSHI</h1>
         <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=7C3AED&width=450&lines=Building+intelligent+systems;Exploring+Backend+%26+Distributed+Systems;Learning+Java+%26+DSA;Turning+ideas+into+working+systems" alt="Typing Banner" /></a>
       </p>
       <p style="font-size: 13.5px; margin: 10px 0; color: #8b949e; line-height: 1.5;">
-        📍 <strong>Location:</strong> Hyderabad, India 🇮🇳 &nbsp;|&nbsp; 🎓 <strong>Status:</strong> 3rd-Year IT Student<br>
+        📍 <strong>Location:</strong> Hyderabad &nbsp;|&nbsp; 🎓 <strong>Status:</strong> 3rd-Year IT Student<br>
         ⚙️ <strong>Engineering Creed:</strong> <em>Build → Break → Learn → Repeat</em>
       </p>
       <p style="margin-top: 14px;">
