@@ -125,12 +125,16 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 - 🥇 **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
   - Reached the Global Final Round with **Capabl**, an AI-powered developer readiness platform.
+- 🏢 **MSME Hackathon Finalist** *(2 Consecutive Years)*
+  - Selected as a Finalist in MSME Innovation Hackathons for two consecutive years.
 - 🚀 **E-Summit IIT Roorkee 2026 Finalist** *(5 Flagship Events)*
   - Qualified as a Finalist across 5 core events: *Market Sphere, Producathon, Mind the Product, DataForge, and Case Quest*.
 - 🏆 **1st Place — Poster Presentation at JNTUH**
   - Won 1st Place in Poster Presentation at JNTUH presenting research on *AI for a Sustainable Future*.
 - ⚡ **Technical & Coding Competition Winner**
   - Winner in campus and inter-college competitions for **Fast Typing**, **Code Debugging**, and **Reverse Coding**.
+- 💻 **Active Hackathon & Event Contributor**
+  - Competed in **5+ major hackathons** and organized/contributed to **4+ technical events**.
 - 🎓 **Google Student Ambassador (2026)**
   - Selected as a Google Student Ambassador; organizing and participating in AI and developer student workshops.
 - 📱 **OnePlus Student Ambassador (2026)**
