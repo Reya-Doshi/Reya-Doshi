@@ -124,7 +124,6 @@ def fetch_contributions(user: str, token: str | None):
 
     current = 0
     if days:
-        # If today has commits, count back starting today. If today has no commits yet, don't break yesterday's streak yet.
         start_idx = len(days) - 1 if days[-1][1] > 0 else len(days) - 2
         for i in range(start_idx, -1, -1):
             if days[i][1] > 0:
@@ -268,10 +267,6 @@ def main(argv=None):
     p.add_argument("--out", type=Path, default=Path("assets"))
     p.add_argument("--projects", type=Path, default=Path("assets/projects.json"),
                    help="repos to render cards for, with description overrides")
-    p.add_argument("--override-contribs", type=int, default=None,
-                   help="override total contributions count if token unavailable")
-    p.add_argument("--override-streak", type=int, default=None,
-                   help="override current streak count if token unavailable")
     args = p.parse_args(argv)
 
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
@@ -293,27 +288,14 @@ def main(argv=None):
 
     public_repos = user_info['public_repos'] if user_info and 'public_repos' in user_info else 13
     followers = user_info['followers'] if user_info and 'followers' in user_info else 1
-    owned = [r for r in repos if not r.get("fork")]
-    stars = sum(r.get("stargazers_count", 0) for r in owned)
 
-    tiles = [("Total stars", f"{stars:,}"),
-             ("Public repos", f"{public_repos:,}"),
+    # Removed "Total stars" as requested. Stat card now displays Public repos, Followers, and live GraphQL contribution metrics.
+    tiles = [("Public repos", f"{public_repos:,}"),
              ("Followers", f"{followers:,}")]
 
     contrib = fetch_contributions(args.user, token)
     if contrib:
         total, current, longest = contrib
-        if args.override_contribs is not None:
-            total = args.override_contribs
-        if args.override_streak is not None:
-            current = args.override_streak
-        tiles += [("Contributions (1y)", f"{total:,}"),
-                  ("Current streak", f"{current:,}"),
-                  ("Longest streak", f"{longest:,}")]
-    elif args.override_contribs is not None:
-        total = args.override_contribs
-        current = args.override_streak if args.override_streak is not None else 5
-        longest = 7
         tiles += [("Contributions (1y)", f"{total:,}"),
                   ("Current streak", f"{current:,}"),
                   ("Longest streak", f"{longest:,}")]
