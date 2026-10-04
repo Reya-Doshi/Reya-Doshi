@@ -37,22 +37,22 @@
 
 ---
 
-### 📌 About Me
+### About Me
 
 I am a 3rd-year Information Technology student interested in building intelligent, scalable, and reliable software systems.
 
-- 🎯 **Core Focus:** Artificial Intelligence · Backend Engineering · Distributed Systems · Cloud & Infrastructure · Data Structures & Algorithms
-- 🧠 **Foundations:** Java · DSA · OOP · DBMS · Distributed Systems
+- **Core Focus:** Artificial Intelligence · Backend Engineering · Distributed Systems · Cloud & Infrastructure · Data Structures & Algorithms
+- **Foundations:** Java · DSA · OOP · DBMS · Distributed Systems
 
 ---
 
-### ⚡ Currently Doing
+### Current Focus
 
-> 🚀 **Currently building AI and systems-focused projects.**
+> **Currently building AI and systems-focused projects.**
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -121,30 +121,30 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 🏆 Achievements & Leadership
+### Achievements & Leadership
 
-- 🥇 **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
+- **Google Student Ambassador (2026)**
+  - Selected as a Google Student Ambassador; led AI workshops impacting 200+ students.
+- **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
   - Reached the Global Final Round with **Capabl**, an AI-powered developer readiness platform.
-- 🏢 **MSME Hackathon Finalist** *(2 Consecutive Years)*
-  - Selected as a Finalist in MSME Innovation Hackathons for two consecutive years.
-- 🚀 **E-Summit IIT Roorkee 2026 Finalist** *(5 Flagship Events)*
+- **E-Summit IIT Roorkee 2026 Finalist** *(5 Flagship Events)*
   - Qualified as a Finalist across 5 core events: *Market Sphere, Producathon, Mind the Product, DataForge, and Case Quest*.
-- 🏆 **1st Place — Poster Presentation at JNTUH**
-  - Won 1st Place in Poster Presentation at JNTUH presenting research on *AI for a Sustainable Future*.
-- ⚡ **Technical & Coding Competition Winner**
+- **OnePlus Student Ambassador (2026)**
+  - Selected as a OnePlus Student Ambassador; driving technical content creation and campus community initiatives.
+- **2nd Place — Poster Presentation at JNTUH**
+  - Secured 2nd Place in Poster Presentation at JNTUH presenting research on *AI for a Sustainable Future*.
+- **Technical & Coding Competition Winner**
   - Winner in campus and inter-college competitions for **Fast Typing**, **Code Debugging**, and **Reverse Coding**.
-- 💻 **Active Hackathon & Event Contributor**
+- **MSME Hackathon Finalist** *(2 Consecutive Years)*
+  - Selected as a Finalist in MSME Innovation Hackathons for two consecutive years.
+- **Active Hackathon & Event Contributor**
   - Competed in **5+ major hackathons** and organized/contributed to **4+ technical events**.
-- 🎓 **Google Student Ambassador (2026)**
-  - Selected as a Google Student Ambassador; organizing and participating in AI and developer student workshops.
-- 📱 **OnePlus Student Ambassador (2026)**
-  - Selected as a OnePlus Student Ambassador; driving technical content creation and campus initiatives.
-- 🏛️ **IQAC Student Member**
-  - Appointed Student Member of the Internal Quality Assurance Cell (IQAC), contributing to academic governance and institutional quality initiatives.
+- **IQAC & SIC Student Member**
+  - Appointed Student Member of the Internal Quality Assurance Cell (IQAC) and Student Innovation Cell (SIC) in college.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Systems & Core Languages
 ![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white)
@@ -190,15 +190,15 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 💻 Core CS Foundations
+### Core CS Foundations
 
-- ☕ **Java & Core Concepts:** OOP · Collections · Exception Handling · Generics
-- 🗄️ **DBMS & Storage:** SQL · Normalization · Transactions · Indexing
-- 🖥️ **Computer Science:** Data Structures & Algorithms · Operating Systems · Networks · Distributed Systems
+- **Java & Core Concepts:** OOP · Collections · Exception Handling · Generics
+- **DBMS & Storage:** SQL · Normalization · Transactions · Indexing
+- **Computer Science:** Data Structures & Algorithms · Operating Systems · Networks · Distributed Systems
 
 ---
 
-### 📊 Skill & Language Radars
+### Skill & Language Radars
 
 <div align="center">
   <picture>
@@ -216,7 +216,7 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <picture>
@@ -228,7 +228,7 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 🐍 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <picture>
@@ -240,7 +240,7 @@ I am a 3rd-year Information Technology student interested in building intelligen
 
 ---
 
-### 🌱 Beyond the Code
+### Beyond the Code
 
 Exploring AI tools, participating in tech communities, creating technical content, and debugging code that was working five minutes ago.
 
