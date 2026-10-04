@@ -100,35 +100,43 @@ I am a 3rd-year Information Technology student interested in building intelligen
 #### Project Highlights
 
 * **[InferX](https://github.com/Reya-Doshi/InferX)** — *Distributed AI Inference Engine*
-  * High-performance inference runtime designed for scalable model execution.
-  * Features zero-copy SharedMemory IPC, multi-process worker architecture, and dynamic batching.
-  * **Tech:** `Python` · `Shared Memory` · `IPC` · `Concurrency` · `AI`
+  * High-performance inference engine built to execute AI models at scale with low latency.
+  * Zero-copy SharedMemory IPC, multi-process worker architecture, dynamic batching, and load-shedding circuit breakers.
+  * **Tech:** `Python` · `Shared Memory` · `IPC` · `Concurrency` · `AI Infrastructure`
 
 * **[Cortex](https://github.com/Reya-Doshi/Cortex)** — *AI Data Investigation Platform*
-  * Autonomous data investigation platform orchestrating specialized AI agents and analytical workflows.
-  * Features dependency-aware DAG execution, concurrent processing via ThreadPoolExecutor, and Pandas analysis.
+  * Autonomous data investigation platform orchestrating specialized AI agents to analyze complex datasets and workflows.
+  * Dependency-aware DAG execution, concurrent processing via ThreadPoolExecutor, and automated Pandas analysis.
   * **Tech:** `Python` · `AI Agents` · `Pandas` · `Concurrency` · `Pytest`
 
 * **[Antidote+](https://github.com/Reya-Doshi/AntidotePlus)** — *AI Snakebite Emergency Network*
-  * Offline-first emergency network helping rural snakebite victims reach facilities with available antivenom.
-  * Features offline-first architecture, AI species identification, Leaflet + OSRM routing, and multilingual support.
-  * **Tech:** `AI` · `Leaflet` · `OSRM` · `Routing` · `Offline-first`
+  * Offline-first emergency navigation network helping rural snakebite victims reach facilities with available antivenom.
+  * Computer vision for AI species identification, Leaflet + OSRM routing, facility availability tracking, and multilingual support.
+  * **Tech:** `AI` · `Leaflet` · `OSRM` · `Routing` · `Offline-First`
 
 * **[Capabl](https://github.com/Reya-Doshi/Capabl)** — *AI Career Readiness Platform*
   * **Global Finalist — USAII Global AI Hackathon 2026**
-  * AI-powered platform for developer profile analysis and actionable skill-gap identification.
+  * AI-powered platform for developer profile analysis, actionable skill-gap identification, and career readiness roadmaps.
   * **Tech:** `React` · `Node.js` · `PostgreSQL` · `Prisma` · `Google Gemini`
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Leadership
 
-- 🏅 **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
-  - Reached the Global Final Round with **Capabl**.
+- 🥇 **Global AI Hackathon Finalist** — *United States Artificial Intelligence Institute (USAII) Global AI Hackathon 2026*
+  - Reached the Global Final Round with **Capabl**, an AI-powered developer readiness platform.
+- 🚀 **E-Summit IIT Roorkee 2026 Finalist** *(5 Flagship Events)*
+  - Qualified as a Finalist across 5 core events: *Market Sphere, Producathon, Mind the Product, DataForge, and Case Quest*.
+- 🏆 **1st Place — Poster Presentation at JNTUH**
+  - Won 1st Place in Poster Presentation at JNTUH presenting research on *AI for a Sustainable Future*.
+- ⚡ **Technical & Coding Competition Winner**
+  - Winner in campus and inter-college competitions for **Fast Typing**, **Code Debugging**, and **Reverse Coding**.
 - 🎓 **Google Student Ambassador (2026)**
-  - Selected as a Google Student Ambassador; participating in AI and student community workshops.
-- ⚡ **Technical Focus**
-  - Building AI, backend engineering, systems, and distributed solutions.
+  - Selected as a Google Student Ambassador; organizing and participating in AI and developer student workshops.
+- 📱 **OnePlus Student Ambassador (2026)**
+  - Selected as a OnePlus Student Ambassador; driving technical content creation and campus initiatives.
+- 🏛️ **IQAC Student Member**
+  - Appointed Student Member of the Internal Quality Assurance Cell (IQAC), contributing to academic governance and institutional quality initiatives.
 
 ---
 
