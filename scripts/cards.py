@@ -180,9 +180,9 @@ def render_stats(user, stats, theme):
     c = THEMES[theme]
     pad = 22
     tiles = [(v, k) for k, v in stats]
-    cols = 3
+    cols = len(tiles)
     rows = (len(tiles) + cols - 1) // cols
-    rh, W = 46, 480
+    rh, W = 46, 520
     H = pad + 52 + (rows - 1) * rh + 17 + pad
     tw = (W - 2 * pad) / cols
 
@@ -287,37 +287,32 @@ def main(argv=None):
         print(f"  note: live github stats unavailable for '{args.user}' ({e}), using profile defaults", file=sys.stderr)
 
     public_repos = user_info['public_repos'] if user_info and 'public_repos' in user_info else 13
-    followers = user_info['followers'] if user_info and 'followers' in user_info else 1
     owned = [r for r in repos if not r.get("fork")]
     stars = sum(r.get("stargazers_count", 0) for r in owned)
     if stars == 0:
-        stars = 4  # Actual stars across public repositories
+        stars = 4
 
-    # Core stats
     total_contribs = 388
-    current_streak = 2
     longest_streak = 10
 
     contrib = fetch_contributions(args.user, token)
     if contrib:
         api_total, api_current, api_longest = contrib
         total_contribs = max(total_contribs, api_total)
-        current_streak = max(current_streak, api_current)
         longest_streak = max(longest_streak, api_longest)
 
+    # Clean 4-tile single-row layout without Followers
     tiles = [
         ("Total stars", f"{stars:,}"),
         ("Public repos", f"{public_repos:,}"),
-        ("Followers", f"{followers:,}"),
         ("Contributions (1y)", f"{total_contribs:,}"),
-        ("Current streak", f"{current_streak:,}"),
         ("Longest streak", f"{longest_streak:,}")
     ]
 
     for theme in ("dark", "light"):
         dest = args.out / f"card-stats-{theme}.svg"
         dest.write_text(render_stats(args.user, tiles, theme), encoding="utf-8")
-    print(f"wrote card-stats-*.svg  ({len(tiles)} tiles)")
+    print(f"wrote card-stats-*.svg  ({len(tiles)} tiles in 1 row)")
 
     if not args.projects.exists():
         print(f"no {args.projects}, skipping repo cards")
